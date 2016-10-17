@@ -1,23 +1,23 @@
 #-------------#
 # Maven Files #
 #-------------#
-target
+/target
 #---------------------------#
 # Anypoint Studio / Eclipse #
 #---------------------------#
-.studio
-.classpath
-.project
-.settings
-mule-project.xml
-.mule
-catalog
+/.studio
+/.classpath
+/.project
+/.settings
+#/mule-project.xml
+/.mule
+/catalog
 #-----------#
 # Mac Files #
 #-----------#
-.DS_Store
+/.DS_Store
 #------------------#
 # Derby / ActiveMQ #
 #------------------#
-activemq-data
-derby.log
+/activemq-data
+/derby.log
